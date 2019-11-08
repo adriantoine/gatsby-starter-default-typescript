@@ -7,7 +7,7 @@
   Gatsby's default starter with TypeScript
 </h1>
 
-The most simple non-opinionated Gatsby starter you will find with TypeScript. This is literally the Gatsby default starter with the TypeScript plugin and all js files converted to `.ts` and `.tsx`.
+The most simple non-opinionated Gatsby starter you will find with TypeScript. I found most Gatsby starters using TypeScript add a lot of library that I don't need and I don't want. This is literally the Gatsby default starter with the TypeScript plugin and all js files converted to `.ts` and `.tsx`.
 
 ## 🚀 Quick start
 
